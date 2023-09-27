@@ -165,7 +165,7 @@ special anyway (you can't nest them in C).
 
 Note that the closing brace is empty on a line of its own, **except** in
 the cases where it is followed by a continuation of the same statement,
-ie a ``while`` in a do-statement or an ``else`` in an if-statement, like
+i.e., a ``while`` in a do-statement or an ``else`` in an if-statement, like
 this:
 
 .. code-block:: c
